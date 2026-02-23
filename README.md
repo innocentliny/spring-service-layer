@@ -1,5 +1,7 @@
-# Service Layer Pattern Demo with Spring Boot & MongoDB
+編註：這個專案對 **Clean Architecture** 做了很好的簡單解釋與體現，故予以收錄。 
 
+# Service Layer Pattern Demo with Spring Boot & MongoDB
+ 
 A complete demonstration of the Service Layer architectural pattern in Spring Boot, showing how to build clean, maintainable, and testable REST APIs with proper separation of concerns.
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
